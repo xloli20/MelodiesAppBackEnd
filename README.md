@@ -79,12 +79,3 @@ Here are the technologies we used building this app.
 |PUT | /playlist/edit | playlist | none
 |DELETE | /playlist/delete | none | id
 
-<!-- CONTACT -->
-## Contributers
-
-Alaa Alzahrani - [LinkedIn](https://www.linkedin.com/in/alaa-alz/) - [Github](https://github.com/xloli20)
-
-Afnan Alfulaij - [LinkedIn](https://www.linkedin.com/in/afnan-alfulaij/
-) - [Github](https://git.generalassemb.ly/afnanaaf)
-
-
